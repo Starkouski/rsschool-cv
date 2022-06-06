@@ -27,7 +27,7 @@ function multiply(a, b){
 
 ## Education:
 
-Belarusian State Technological University
+Belarusian State Technological University.
 Speciality - engineer chemical technologist
 
 ## English language level:
