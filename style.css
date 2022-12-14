@@ -1,0 +1,32 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    color: red;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nav {
+    text-align: center;
+}
+
+.item {
+    display: inline;
+    margin-right: 10px;
+}
+
+.foto {
+    text-align: center;
+}
+
+.footer {    
+    display: flex;
+    justify-content: space-evenly;
+}
